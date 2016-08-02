@@ -1,12 +1,17 @@
 # Asteroid Mining Agreement
 
-`Purpose` This template is nominally about an agreement to mine an asteroid. In reality, this template is here to introduce you to the CodePact interface, and to show you how easy it really is to create a contract once all the legalese has been abstracted away.
+`Purpose` Depending on your life circumstances, this template is:
 
-Here, the first party, BlueSkyMines will be mining an asteroid for the IAU (the International Astronomical Union). These short names are fine for day to day use, but for a contract, you need to be a little more precise about _who_ is agreeing to the contract. So we have to start start by filling out the details of the parties to the contract. Do that below, by clicking on the pink buttons. Don't worry about entering an accurate set of details. Unless you really _are_ mining an asteroid.
+- for your next asteroid mining expedition; or
+- to show you how CodePact's interface works.
+
+BlueSkyMines is setting up to mine [Asteroid 4 Vesta](https://en.wikipedia.org/wiki/4_Vesta) for the IAU (the International Astronomical Union). 
+
+The first section below identifies the parties (those signing the contract).
 
 `Party 1 Name` BlueSkyMines
 
-`Party 2 Name` the IAU
+`Party 2 Name` IAU
 
 ## Payment Calculation
 
