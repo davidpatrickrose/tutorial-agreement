@@ -53,11 +53,11 @@ https://github.com/CodePact/au-components/blob/staging/necessary_bureaucracy.md
 
 ## Congratulations
 
-You just wrote a contract. It may have seemed too easy to be a solid legal document, but the reality is that most people think contracts need to be far more complicated than necessary.
+If you've missed anything, you'll have a pink "NEXT STEP" button in the sidebar on the left. If there's a "SIGN DOCUMENT" button instead, then congratulations, you just wrote a contract. It may have seemed too easy to be a solid legal document, but the reality is that most people think contracts need to be far more complicated than necessary.
 
 We support digital signing of agreements too, but since you probably entered fake email details in the first clause, you won't be able to do that. But feel free to go back and change that if you want to see how digital signing works.
 
-Feel free to go back and play around with the other clause options too. It'll give you an idea of the scope and flexibility of our templates. We have a whole bunch of more practical templates available. Stuff like Software development contracts, or privacy policies that comply with Australian privacy law. Please do check them out.
+Feel free to go back and play around with the other options at each step too. It'll give you an idea of the scope and flexibility of our templates. We have a whole bunch of more practical templates available. Stuff like Software development contracts, or privacy policies that comply with Australian privacy law. Please do check them out.
 
 ## Definitions
 
