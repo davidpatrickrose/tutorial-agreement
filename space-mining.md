@@ -5,11 +5,9 @@
 - for your next asteroid mining expedition; or
 - to show you how CodePact's interface works.
 
-BlueSkyMines is arranging to mine [Asteroid 4 Vesta](https://en.wikipedia.org/wiki/4_Vesta), which is owned by the IAU (the International Astronomical Union). IAU hire contractors to do the grunt work.
+BlueSkyMines is arranging to mine [Asteroid 4660 Nereus](https://en.wikipedia.org/wiki/4660_Nereus), which is owned by IAU (the International Astronomical Union). IAU hire contractors to do the grunt work.
 
-The design pattern of this interface is that the color pink means you've got something to do and blue means you've done it.
-
-The first section below identifies the parties (those signing the contract).
+On this interface, the color pink means you've got something to do, and blue means it's done.  The first section below identifies the parties (those signing the contract).
 
 `Party 1 Name` BlueSkyMines
 
@@ -17,7 +15,7 @@ The first section below identifies the parties (those signing the contract).
 
 ## Payment Calculation
 
-We think it makes sense to put the most important commercial terms of a contract up front.  Order should be determined by commercial priority, not traditional legal order.
+We think it makes sense to put the most important commercial terms of a contract up front.  If we're creating documents for non lawyers, order should be determined by commercial priority, not the traditional legal order.
 
 For a BlueSkyMines Void Buccaneer, pay's usually top of mind, so let's do that first.
 
